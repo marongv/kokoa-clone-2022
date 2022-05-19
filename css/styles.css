@@ -5,8 +5,9 @@
 
 /* Components */
 @import "components/status-bar.css";
+@import "components/nav-bar.css";
 
-/* Components */
+/* Screens */
 @import "screens/login.css";
 
 body{
