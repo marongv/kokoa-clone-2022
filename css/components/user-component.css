@@ -52,3 +52,12 @@
     margin-bottom: 7px;
     display: block;
 }
+
+.user-component__container{
+    display: flex;
+    align-items: flex-end;
+}
+.user-component__container i{
+    color: tomato;
+    margin-left: 5px;
+}
