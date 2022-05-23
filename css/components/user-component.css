@@ -35,6 +35,7 @@
 .user-component__avatar--sm{
     width: 60px;
     height: 60px;
+    object-fit: cover;
 }
 
 .user-component__title--not-bold{
